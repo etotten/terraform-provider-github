@@ -94,7 +94,7 @@ github.com/hashicorp/hcl/hcl/scanner
 github.com/hashicorp/hcl/hcl/strconv
 github.com/hashicorp/hcl/json/scanner
 github.com/hashicorp/hcl/json/token
-# github.com/hashicorp/hcl2 v0.0.0-20181204002630-cd67ba1b25f3
+# github.com/hashicorp/hcl2 v0.0.0-20181208003705-670926858200
 github.com/hashicorp/hcl2/hcl
 github.com/hashicorp/hcl2/hcl/hclsyntax
 github.com/hashicorp/hcl2/hcldec
@@ -104,6 +104,7 @@ github.com/hashicorp/hcl2/ext/typeexpr
 github.com/hashicorp/hcl2/ext/dynblock
 github.com/hashicorp/hcl2/hclwrite
 github.com/hashicorp/hcl2/hcl/json
+github.com/hashicorp/hcl2/hcled
 # github.com/hashicorp/hil v0.0.0-20170627220502-fa9f258a9250
 github.com/hashicorp/hil
 github.com/hashicorp/hil/ast
@@ -111,7 +112,7 @@ github.com/hashicorp/hil/parser
 github.com/hashicorp/hil/scanner
 # github.com/hashicorp/logutils v0.0.0-20150609070431-0dc08b1671f3
 github.com/hashicorp/logutils
-# github.com/hashicorp/terraform v0.12.0-alpha3.0.20181207161259-55469cd416a6
+# github.com/hashicorp/terraform v0.12.0-alpha4.0.20181211172553-4ce7516be52c
 github.com/hashicorp/terraform/plugin
 github.com/hashicorp/terraform/helper/logging
 github.com/hashicorp/terraform/helper/schema
@@ -149,6 +150,7 @@ github.com/hashicorp/terraform/registry/response
 github.com/hashicorp/terraform/svchost/disco
 github.com/hashicorp/terraform/helper/hilmapstructure
 github.com/hashicorp/terraform/lang/funcs
+github.com/hashicorp/terraform/command/format
 github.com/hashicorp/terraform/configs/configload
 github.com/hashicorp/terraform/helper/config
 github.com/hashicorp/terraform/svchost
@@ -164,9 +166,11 @@ github.com/kylelemons/godebug/diff
 github.com/mattn/go-isatty
 # github.com/mitchellh/cli v0.0.0-20180316190330-b068abc08c99
 github.com/mitchellh/cli
+# github.com/mitchellh/colorstring v0.0.0-20150917214807-8631ce90f286
+github.com/mitchellh/colorstring
 # github.com/mitchellh/copystructure v0.0.0-20170525013902-d23ffcb85de3
 github.com/mitchellh/copystructure
-# github.com/mitchellh/go-homedir v0.0.0-20161203194507-b8bc1bf76747
+# github.com/mitchellh/go-homedir v1.0.0
 github.com/mitchellh/go-homedir
 # github.com/mitchellh/go-testing-interface v0.0.0-20171004221916-a61a99592b77
 github.com/mitchellh/go-testing-interface

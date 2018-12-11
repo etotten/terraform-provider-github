@@ -6,7 +6,7 @@ require (
 	github.com/go-ini/ini v1.36.0 // indirect
 	github.com/google/go-github v16.0.0+incompatible
 	github.com/gopherjs/gopherjs v0.0.0-20181103185306-d547d1d9531e // indirect
-	github.com/hashicorp/terraform v0.12.0-alpha3.0.20181207161259-55469cd416a6
+	github.com/hashicorp/terraform v0.12.0-alpha4.0.20181211172553-4ce7516be52c
 	github.com/kylelemons/godebug v0.0.0-20170820004349-d65d576e9348
 	github.com/mattn/go-isatty v0.0.4 // indirect
 	github.com/mitchellh/cli v0.0.0-20180316190330-b068abc08c99 // indirect
