@@ -49,6 +49,7 @@ func Provider() terraform.ResourceProvider {
 			"github_repository_webhook":       resourceGithubRepositoryWebhook(),
 			"github_team":                     resourceGithubTeam(),
 			"github_team_membership":          resourceGithubTeamMembership(),
+			"github_team_membership_set":      resourceGithubTeamMembershipSet(),
 			"github_team_repository":          resourceGithubTeamRepository(),
 			"github_user_gpg_key":             resourceGithubUserGpgKey(),
 			"github_user_invitation_accepter": resourceGithubUserInvitationAccepter(),
